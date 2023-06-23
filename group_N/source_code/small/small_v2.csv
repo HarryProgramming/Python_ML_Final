@@ -1,0 +1,424 @@
+,Startup_name,State_code,City,Category,Founded_at,Founded_month,Founded_quarter,Funding_rounds,Age_first_funding_year,Age_last_funding_year,Funding_total_usd,Has_VC,Has_angel,Has_roundA,Has_roundB,Has_roundC,Has_roundD,Status
+0,Bandsintown,CA,San Diego,art&music,2007/1/1,1,2007-Q1,3,2.0,3.0,375000,0,1,0,0,0,0,1
+1,Plixi,CA,San Diego,web,2009/3/18,3,2009-Q1,1,1.0,1.0,2600000,0,0,1,0,0,0,1
+2,Inhale Digital,CA,San Francisco,games,2010/8/1,8,2010-Q3,2,0.0,1.0,1300000,1,1,0,0,0,0,0
+3,Matisse Networks,CA,Mountain View,web,2002/1/1,1,2002-Q1,1,4.0,4.0,7500000,0,0,0,1,0,0,0
+4,RingCube Technologies,CA,Mountain View,hardware&software,2005/1/1,1,2005-Q1,3,1.0,5.0,26000000,1,0,1,1,0,0,1
+5,Doostang,CA,Palo Alto,web,2005/6/1,6,2005-Q2,3,1.0,4.0,5750000,1,1,1,0,0,0,1
+6,Zong,CA,Menlo Park,mobile,2000/11/15,11,2000-Q4,3,4.0,9.0,27500000,0,0,1,1,0,0,1
+7,Center'd,CA,Menlo Park,web,2006/1/1,1,2006-Q1,5,1.0,5.0,10400000,1,1,1,0,0,0,0
+8,SinglePlatform,NY,New York,web,2010/1/1,1,2010-Q1,3,0.0,1.0,4575000,0,1,1,0,0,0,1
+9,Metreos Corporation,TX,Austin,hardware&software,2001/1/1,1,2001-Q1,2,2.0,3.0,4355000,0,1,1,0,0,0,1
+10,Neopolitan Networks,CA,Palo Alto,web,2002/1/1,1,2002-Q1,1,5.0,5.0,3170000,0,0,1,0,0,0,0
+11,Scalent Systems,CA,Palo Alto,public_relations,2003/1/1,1,2003-Q1,1,4.0,4.0,15000000,0,0,0,0,1,0,1
+12,"RetailMeNot, Inc.",TX,Austin,web,2007/5/1,5,2007-Q2,5,2.0,4.0,299500000,1,0,1,0,1,0,1
+13,Lockdown Networks,WA,Seattle,public_relations,2001/1/1,1,2001-Q1,2,4.0,5.0,8600000,1,0,0,1,0,0,1
+14,Karma,CA,San Francisco,mobile,2011/1/1,1,2011-Q1,2,0.0,0.0,2304999,1,0,0,0,0,0,1
+15,Entertainment Media Works,NY,New York,hardware&software,2004/7/1,7,2004-Q3,1,2.0,2.0,4000000,0,0,0,1,0,0,0
+16,Elastra,CA,San Francisco,hardware&software,2007/1/1,1,2007-Q1,2,0.0,1.0,14600000,0,0,1,1,0,0,0
+17,RPO,CA,San Jose,hardware&software,2005/1/1,1,2005-Q1,3,1.0,5.0,44000000,0,0,0,1,1,0,0
+18,Fotomoto,CA,San Francisco,e-commerce,2008/10/1,10,2008-Q4,3,0.0,2.0,1822922,0,1,1,0,0,0,1
+19,Peer39,NY,New York,advertising,2006/3/1,3,2006-Q1,7,0.0,5.0,29915001,1,1,1,1,1,0,1
+20,PublicEarth,CA,Menlo Park,travel,2008/1/1,1,2008-Q1,2,0.0,2.0,4000000,1,0,1,0,0,0,0
+21,Efficient Frontier,CA,Sunnyvale,advertising,2002/1/1,1,2002-Q1,1,4.0,4.0,6000000,0,0,0,0,1,0,1
+22,NetDevices,CA,Sunnyvale,hardware&software,2003/1/1,1,2003-Q1,1,2.0,2.0,25000000,0,0,0,1,0,0,1
+23,Go Try It On,NY,New York,fashion,2009/12/1,12,2009-Q4,3,0.0,2.0,3750000,0,1,1,0,0,0,1
+24,Performable,MA,Cambridge,hardware&software,2009/10/17,10,2009-Q4,1,0.0,0.0,3000000,0,0,1,0,0,0,1
+25,Appstores.com,CA,San Francisco,hardware&software,2010/5/24,5,2010-Q2,2,0.0,1.0,1155000,0,1,0,0,0,0,1
+26,Fortify Software,CA,San Mateo,hardware&software,2002/10/1,10,2002-Q4,1,3.0,3.0,10000000,0,0,0,0,0,1,1
+27,Indeed,TX,Austin,web,2004/11/1,11,2004-Q4,1,0.0,0.0,5000000,0,0,1,0,0,0,1
+28,Transparency Software,CA,Palo Alto,hardware&software,2004/1/1,1,2004-Q1,2,1.0,3.0,12050000,1,0,1,0,0,0,0
+29,Viewdle,CA,Palo Alto,analytics,2006/1/1,1,2006-Q1,3,2.0,4.0,12000000,1,0,1,1,0,0,1
+30,Virsto Software,CA,Sunnyvale,hardware&software,2007/7/1,7,2007-Q3,3,1.0,4.0,24000000,0,0,1,1,0,0,1
+31,Carbonetworks,CA,San Francisco,clean_technology,2005/1/1,1,2005-Q1,1,3.0,3.0,5000000,0,0,1,0,0,0,0
+32,Sana Security,CA,San Mateo,security,2000/1/1,1,2000-Q1,1,7.0,7.0,12000000,0,0,0,0,0,0,1
+33,Sportgenic,CA,San Francisco,advertising,2005/9/1,9,2005-Q3,3,1.0,3.0,11489687,0,1,1,1,0,0,1
+34,Lolapps,CA,San Francisco,web,2008/1/1,1,2008-Q1,1,0.0,0.0,4000000,0,0,1,0,0,0,1
+35,adBrite,CA,San Francisco,advertising,2003/1/1,1,2003-Q1,4,1.0,9.0,40400000,0,0,1,1,1,1,1
+36,QuikCycle,CA,Santa Clara,hardware&software,1998/1/1,1,1998-Q1,2,9.0,9.0,17800000,1,0,0,0,0,0,0
+37,Instagram,CA,San Francisco,social_media,2010/3/1,3,2010-Q1,3,0.0,2.0,57500000,0,1,1,1,0,0,1
+38,Motionbox,NY,New York,games,2006/1/1,1,2006-Q1,3,0.0,3.0,17200000,0,0,1,1,1,0,1
+39,Thumbplay,NY,New York,art&music,2004/9/1,9,2004-Q3,4,2.0,5.0,41500019,0,0,0,0,1,0,1
+40,DailyStrength,CA,Los Angeles,web,2006/4/1,4,2006-Q2,1,1.0,1.0,5000000,0,0,1,0,0,0,1
+41,Yub,CA,Mountain View,e-commerce,2013/1/1,1,2013-Q1,1,0.0,0.0,12000000,1,0,0,0,0,0,0
+42,Azuro,CA,Santa Clara,semiconductors,2002/1/1,1,2002-Q1,2,4.0,7.0,10000000,1,0,0,1,0,0,1
+43,BookFresh,CA,San Francisco,web,2007/1/1,1,2007-Q1,1,2.0,2.0,500000,0,1,0,0,0,0,1
+44,Singly,CA,San Francisco,analytics,2010/12/21,12,2010-Q4,2,0.0,1.0,8950000,0,0,1,0,0,0,1
+45,TxVia,NY,New York,finance,2006/1/1,1,2006-Q1,4,1.0,4.0,55350000,0,0,1,1,1,1,1
+46,Blue Vector Systems,CA,Mountain View,public_relations,2002/1/1,1,2002-Q1,1,3.0,3.0,4000000,0,0,0,1,0,0,0
+47,Astrid,CA,San Francisco,social_media,2008/1/1,1,2008-Q1,1,4.0,4.0,400000,0,1,0,0,0,0,1
+48,Hubspan,WA,Seattle,hardware&software,2000/1/1,1,2000-Q1,1,5.0,5.0,13000000,0,0,0,0,0,1,1
+49,41st Parameter,CA,San Jose,security,2004/1/1,1,2004-Q1,4,2.0,8.0,38064570,1,0,0,1,1,1,1
+50,Fluther,CA,San Francisco,web,2007/1/1,1,2007-Q1,1,2.0,2.0,600000,0,1,0,0,0,0,1
+51,Woven Systems,CA,Santa Clara,web,2003/1/1,1,2003-Q1,2,2.0,4.0,30000000,0,0,1,1,0,0,1
+52,Chomp,CA,San Francisco,mobile,2009/9/9,9,2009-Q3,2,0.0,0.0,2565000,0,1,1,0,0,0,1
+53,ShopWiki,NY,New York,e-commerce,2005/6/1,6,2005-Q2,1,1.0,1.0,6250000,0,0,1,0,0,0,1
+54,Fondu,NY,New York,web,2010/2/1,2,2010-Q1,1,1.0,1.0,575000,0,1,0,0,0,0,1
+55,Qwiki,NY,New York,social_media,2009/10/1,10,2009-Q4,3,0.0,1.0,10500000,1,0,1,0,0,0,1
+56,TheMarkets,NY,New York,web,2000/1/1,1,2000-Q1,1,7.0,7.0,30000000,1,0,0,0,0,0,1
+57,Sentrigo,CA,Santa Clara,hardware&software,2006/10/1,10,2006-Q4,3,0.0,4.0,9500000,0,0,1,1,1,0,1
+58,Netli,CA,Palo Alto,web,2000/1/1,1,2000-Q1,1,6.0,6.0,18000000,1,0,0,0,0,0,1
+59,Wellcore,CA,San Jose,hardware&software,2007/1/1,1,2007-Q1,1,3.0,3.0,2000000,0,0,0,0,0,0,0
+60,Taligen Therapeutics,MA,Cambridge,biotechnology,2004/1/1,1,2004-Q1,3,1.0,6.0,78750000,0,0,1,1,0,0,1
+61,Adap.tv,CA,San Mateo,advertising,2006/11/1,11,2006-Q4,5,0.0,4.0,48500000,1,1,1,1,1,0,1
+62,Current Media,CA,San Francisco,web,2005/1/1,1,2005-Q1,1,0.0,0.0,15000000,0,0,1,0,0,0,0
+63,Arch Rock Corporation,CA,San Francisco,hardware&software,2005/1/1,1,2005-Q1,2,0.0,2.0,15000000,0,0,1,1,0,0,1
+64,SpiralFrog,NY,New York,games,2004/1/1,1,2004-Q1,3,2.0,3.0,45000000,0,0,1,0,0,0,0
+65,Plusmo,CA,Santa Clara,mobile,2006/6/1,6,2006-Q2,1,1.0,1.0,4410000,0,0,1,0,0,0,1
+66,Involver,CA,San Francisco,hardware&software,2007/1/1,1,2007-Q1,3,1.0,3.0,11040000,0,0,1,1,1,0,1
+67,Lionside,CA,San Francisco,games,2009/1/1,1,2009-Q1,1,1.0,1.0,1600000,0,0,1,0,0,0,1
+68,Game Trust,NY,New York,hardware&software,2002/1/1,1,2002-Q1,2,3.0,3.0,9000000,1,0,0,1,0,0,1
+69,Nearbuy Systems,CA,San Mateo,analytics,2010/4/1,4,2010-Q2,3,1.0,2.0,3282327,1,0,0,0,0,0,1
+70,GetBack,CA,Los Angeles,web,2007/9/1,9,2007-Q3,1,1.0,1.0,1700000,0,0,1,0,0,0,0
+71,Yobongo,CA,San Francisco,web,2010/1/1,1,2010-Q1,1,1.0,1.0,1350000,0,1,0,0,0,0,1
+72,LikeList,CA,Sunnyvale,web,2008/1/1,1,2008-Q1,1,1.0,1.0,5000000,0,0,1,0,0,0,0
+73,Pure Networks,WA,Seattle,web,2002/1/1,1,2002-Q1,1,4.0,4.0,12500000,0,0,0,1,0,0,1
+74,Infineta Systems,CA,San Jose,hardware&software,2008/1/1,1,2008-Q1,2,2.0,3.0,30000000,0,0,1,1,0,0,0
+75,Challenge Games,TX,Austin,web,2006/1/1,1,2006-Q1,2,2.0,2.0,14500000,0,0,1,1,0,0,1
+76,Crowd Factory,CA,San Francisco,advertising,2009/1/1,1,2009-Q1,1,2.0,2.0,6500000,1,0,0,0,0,0,1
+77,Vizibility,NY,New York,mobile,2009/7/1,7,2009-Q3,5,0.0,3.0,4705910,1,1,0,0,0,0,1
+78,Tumblr,NY,New York,web,2007/2/1,2,2007-Q1,6,0.0,4.0,125250000,1,0,1,1,1,1,1
+79,Hotlist,NY,New York,social_media,2008/1/1,1,2008-Q1,4,0.0,4.0,1449998,1,1,0,0,0,0,0
+80,Crashlytics,MA,Cambridge,mobile,2011/2/1,2,2011-Q1,2,0.0,1.0,6000000,0,1,1,0,0,0,1
+81,Recurve,CA,San Francisco,hardware&software,2005/8/1,8,2005-Q3,2,3.0,4.0,14000000,1,0,1,0,0,0,1
+82,Plizy,CA,San Francisco,social_media,2010/9/1,9,2010-Q3,2,0.0,2.0,5200000,1,0,1,0,0,0,0
+83,Gowalla,TX,Austin,web,2007/8/28,8,2007-Q3,3,0.0,2.0,10400001,0,0,1,1,0,0,1
+84,Turf Geography Club,NY,New York,mobile,2011/1/1,1,2011-Q1,2,0.0,1.0,890000,0,1,0,0,0,0,0
+85,skyrockit,CA,San Francisco,mobile,2001/1/1,1,2001-Q1,1,10.0,10.0,2600000,1,0,0,0,0,0,0
+86,VoxPop Network Corporation,CA,San Francisco,games,2006/8/1,8,2006-Q3,2,0.0,2.0,3500000,0,0,1,1,0,0,1
+87,Metaweb Technologies,CA,San Francisco,web,2005/1/1,1,2005-Q1,2,1.0,3.0,57000000,0,0,1,1,0,0,1
+88,DocVerse,CA,San Francisco,web,2007/9/1,9,2007-Q3,1,0.0,0.0,1300000,0,1,0,0,0,0,1
+89,Veoh,CA,San Diego,games,2004/1/1,1,2004-Q1,4,1.0,4.0,69750000,0,0,1,1,1,1,1
+90,Hammerhead Systems,CA,Mountain View,hardware&software,2002/1/1,1,2002-Q1,2,4.0,5.0,48000000,0,0,0,0,1,1,0
+91,GuardianEdge Technologies,CA,San Mateo,hardware&software,2002/1/1,1,2002-Q1,3,3.0,5.0,19500000,0,0,1,1,0,0,1
+92,VoloMedia,CA,Sunnyvale,advertising,2005/1/1,1,2005-Q1,2,2.0,3.0,12000000,0,0,0,1,1,0,0
+93,Flixster,CA,San Francisco,web,2006/1/20,1,2006-Q1,3,0.0,2.0,7175000,0,1,1,1,0,0,1
+94,Wesabe,CA,San Francisco,web,2005/12/1,12,2005-Q4,2,1.0,1.0,4700000,0,1,1,0,0,0,0
+95,NeoEdge Networks,CA,Mountain View,advertising,2002/5/2,5,2002-Q2,3,5.0,8.0,10000000,1,0,0,1,0,0,1
+96,SemiSouth Laboratories,TX,Austin,semiconductors,2000/7/1,7,2000-Q3,4,4.0,10.0,39000000,1,0,1,0,0,0,0
+97,NuConomy,CA,San Francisco,advertising,2006/1/1,1,2006-Q1,2,1.0,2.0,3300000,0,1,1,0,0,0,1
+98,Flowtown,CA,San Francisco,analytics,2009/2/1,2,2009-Q1,1,1.0,1.0,750000,0,1,0,0,0,0,1
+99,Bioenvision,NY,New York,biotechnology,1996/1/1,1,1996-Q1,1,11.0,11.0,7410000,1,0,0,0,0,0,0
+100,Teranetics,CA,San Jose,semiconductors,2000/1/1,1,2000-Q1,3,6.0,10.0,52800000,1,0,0,0,1,0,1
+101,GoodGuide,CA,San Francisco,web,2007/12/1,12,2007-Q4,3,1.0,3.0,14229998,0,0,1,1,0,0,1
+102,avVenta,NY,New York,advertising,2005/1/1,1,2005-Q1,1,4.0,4.0,20000000,0,0,1,0,0,0,1
+103,DeliveryEdge,CA,San Francisco,e-commerce,2006/9/1,9,2006-Q3,1,1.0,1.0,1500000,0,0,0,0,0,0,0
+104,Solmentum,CA,San Francisco,clean_technology,2009/7/1,7,2009-Q3,1,0.0,0.0,325000,0,1,0,0,0,0,0
+105,GridNetworks,WA,Seattle,web,2004/1/1,1,2004-Q1,4,2.0,4.0,30000000,0,1,1,1,0,0,0
+106,MAP Pharmaceuticals,CA,Mountain View,biotechnology,2003/1/1,1,2003-Q1,1,4.0,4.0,50000000,0,0,0,0,0,1,1
+107,"ORCA, Inc.",NY,New York,e-commerce,2008/1/1,1,2008-Q1,1,1.0,1.0,2000000,0,0,1,0,0,0,1
+108,Phurnace Software,TX,Austin,hardware&software,2007/1/1,1,2007-Q1,2,0.0,1.0,10000000,0,0,1,0,0,0,1
+109,BlueLithium,CA,San Jose,advertising,2004/1/1,1,2004-Q1,1,1.0,1.0,11500000,0,0,1,0,0,0,1
+110,Giant Realm,NY,New York,web,2007/1/1,1,2007-Q1,2,1.0,1.0,5500000,0,0,1,0,0,0,1
+111,LocaModa,MA,Cambridge,advertising,2007/1/1,1,2007-Q1,3,0.0,4.0,7900000,0,0,1,0,0,0,1
+112,Meraki,CA,San Francisco,web,2006/4/1,4,2006-Q2,5,0.0,6.0,80000000,0,1,1,1,1,1,1
+113,MPOWER Mobile,TX,Austin,mobile,2005/1/1,1,2005-Q1,1,4.0,4.0,5000000,1,0,0,0,0,0,0
+114,Haute Secure,WA,Seattle,security,2006/1/1,1,2006-Q1,2,1.0,3.0,2100000,0,1,1,0,0,0,1
+115,Kluster,NY,New York,web,2008/1/1,1,2008-Q1,1,0.0,0.0,1000000,0,1,0,0,0,0,1
+116,Jingle Networks,NY,New York,mobile,2005/9/1,9,2005-Q3,7,0.0,4.0,88651133,1,1,1,1,1,1,1
+117,ItsGoinOn,CA,Los Angeles,games,2010/5/1,5,2010-Q2,1,0.0,0.0,100000,0,1,0,0,0,0,0
+118,Ardian,CA,Mountain View,biotechnology,2003/1/1,1,2003-Q1,3,2.0,6.0,64080000,0,0,1,1,1,0,1
+119,Canopy Financial,CA,San Francisco,finance,2004/1/1,1,2004-Q1,4,4.0,5.0,89500000,0,0,0,1,1,0,0
+120,Kyte,CA,San Francisco,games,2006/12/1,12,2006-Q4,4,0.0,5.0,23350000,0,1,1,1,0,0,1
+121,Immunet Corporation,CA,Palo Alto,hardware&software,2008/7/1,7,2008-Q3,1,1.0,1.0,2000000,0,0,1,0,0,0,1
+122,PopularMedia,CA,San Francisco,advertising,2003/1/1,1,2003-Q1,2,4.0,5.0,12250000,0,0,0,1,1,0,1
+123,Miyowa,CA,San Francisco,mobile,2003/4/14,4,2003-Q2,2,3.0,5.0,11725600,0,0,1,1,0,0,1
+124,Dashwire,WA,Seattle,mobile,2006/8/11,8,2006-Q3,3,2.0,4.0,5056559,1,0,1,0,0,0,1
+125,Reddit,CA,San Francisco,web,2005/1/1,1,2005-Q1,1,0.0,0.0,100000,0,1,0,0,0,0,1
+126,Pure Digital Technologies,CA,San Francisco,hardware&software,2001/9/1,9,2001-Q3,3,2.0,6.0,68200000,1,1,0,0,0,0,1
+127,Visual Revenue,NY,New York,analytics,2010/3/1,3,2010-Q1,2,1.0,1.0,2212000,0,1,1,0,0,0,1
+128,Offermatic,CA,San Mateo,web,2010/2/1,2,2010-Q1,2,0.0,1.0,4500000,0,1,1,0,0,0,0
+129,Hyperic,CA,Palo Alto,hardware&software,2004/1/1,1,2004-Q1,2,2.0,3.0,9900000,0,0,1,1,0,0,1
+130,Optimal,CA,San Francisco,advertising,2008/1/1,1,2008-Q1,3,0.0,5.0,7600000,0,0,1,1,0,0,1
+131,Geodelic Systems,CA,Los Angeles,mobile,2008/1/1,1,2008-Q1,3,0.0,2.0,10500000,1,0,1,1,0,0,0
+132,PostPath,CA,Mountain View,web,2003/1/1,1,2003-Q1,2,1.0,4.0,24300000,0,0,0,1,1,0,1
+133,Attune Systems,CA,Santa Clara,hardware&software,1999/1/1,1,1999-Q1,2,7.0,7.0,18000000,1,0,0,1,0,0,0
+134,TokBox,CA,San Francisco,hardware&software,2007/5/1,5,2007-Q2,3,0.0,3.0,26000000,0,0,1,1,1,0,1
+135,Avega Systems,CA,Mountain View,hardware&software,2005/1/1,1,2005-Q1,2,2.0,5.0,9500000,1,0,0,1,0,0,0
+136,PeerMe,CA,Mountain View,games,2004/1/1,1,2004-Q1,1,1.0,1.0,5000000,0,0,1,0,0,0,0
+137,Kiha Software,WA,Seattle,hardware&software,2008/1/1,1,2008-Q1,1,2.0,2.0,20000000,0,0,1,0,0,0,0
+138,Vlingo,MA,Cambridge,mobile,2006/6/1,6,2006-Q2,3,0.0,3.0,26500000,1,0,1,1,0,0,1
+139,Hurricane Party,TX,Austin,mobile,2010/5/1,5,2010-Q2,1,0.0,0.0,20000,0,1,0,0,0,0,0
+140,Minekey,CA,Sunnyvale,web,2005/1/1,1,2005-Q1,2,1.0,2.0,3600000,0,1,1,0,0,0,0
+141,Blip,NY,New York,games,2005/5/1,5,2005-Q2,7,0.0,7.0,27300000,0,1,1,1,1,1,1
+142,Fabkids,CA,San Francisco,e-commerce,2012/1/1,1,2012-Q1,1,0.0,0.0,2600000,0,0,1,0,0,0,1
+143,CafeBots,CA,Palo Alto,web,2010/1/1,1,2010-Q1,1,0.0,0.0,5000000,0,0,1,0,0,0,0
+144,Avaak,CA,San Diego,mobile,2004/1/1,1,2004-Q1,2,4.0,6.0,17000000,0,0,1,1,0,0,1
+145,Digg,CA,San Francisco,social_media,2004/10/11,10,2004-Q4,4,0.0,6.0,45000000,0,0,1,1,1,1,1
+146,Kongregate,CA,San Francisco,games,2006/1/1,1,2006-Q1,4,1.0,7.0,19000000,0,0,1,1,1,0,1
+147,Kiptronic,CA,San Francisco,advertising,2005/5/1,5,2005-Q2,3,0.0,3.0,7300000,0,1,1,1,0,0,1
+148,Cozi Group,WA,Seattle,web,2005/3/3,3,2005-Q1,7,0.0,7.0,26390819,1,0,1,1,0,0,0
+149,Jaxtr,CA,Menlo Park,mobile,2005/10/1,10,2005-Q4,3,1.0,2.0,21500000,0,0,1,1,0,0,1
+150,TravelMuse,NY,New York,web,2007/4/16,4,2007-Q2,3,0.0,2.0,5600000,0,0,1,1,0,0,1
+151,Jambool,CA,San Francisco,finance,2006/8/1,8,2006-Q3,2,2.0,3.0,6000000,0,0,1,1,0,0,1
+152,Home-Account,CA,San Francisco,finance,2008/11/1,11,2008-Q4,2,0.0,0.0,1000000,1,0,1,0,0,0,1
+153,kwiry,CA,San Francisco,mobile,2006/1/1,1,2006-Q1,1,2.0,2.0,1000000,0,0,1,0,0,0,0
+154,imeem,CA,San Francisco,art&music,2003/11/1,11,2003-Q4,5,0.0,5.0,24750000,1,1,1,1,0,0,1
+155,RentJuice,CA,San Francisco,finance,2008/1/1,1,2008-Q1,3,2.0,3.0,6693782,1,0,0,0,0,0,1
+156,Verari Systems,CA,San Diego,hardware&software,1996/1/1,1,1996-Q1,1,11.0,11.0,20000000,0,0,0,0,1,0,0
+157,Outside.in,NY,New York,web,2006/8/1,8,2006-Q3,5,0.0,3.0,14400000,0,1,1,1,0,0,1
+158,Vizu Corporation,CA,San Francisco,advertising,2005/2/14,2,2005-Q1,4,1.0,7.0,13075000,0,0,1,1,0,0,1
+159,Elevation Pharmaceuticals,CA,San Diego,biotechnology,2007/1/1,1,2007-Q1,4,3.0,5.0,89400001,1,0,1,1,0,0,1
+160,Punch Entertainment,CA,Palo Alto,hardware&software,2005/5/10,5,2005-Q2,1,0.0,0.0,1200000,0,0,1,0,0,0,0
+161,Stickybits,NY,New York,web,2009/1/1,1,2009-Q1,2,1.0,1.0,1900000,0,1,1,0,0,0,0
+162,Ecast,CA,San Francisco,games,1999/1/1,1,1999-Q1,3,9.0,12.0,30300000,1,0,0,0,0,1,0
+163,lifeIO,NY,New York,web,2006/8/29,8,2006-Q3,1,2.0,2.0,500000,0,1,0,0,0,0,0
+164,Buysight,CA,Palo Alto,advertising,2008/1/1,1,2008-Q1,3,0.0,4.0,24030000,0,0,1,1,0,0,1
+165,TripIt,CA,San Francisco,travel,2006/10/1,10,2006-Q4,3,0.0,3.0,13100000,0,1,0,1,1,0,1
+166,Pinch Media,NY,New York,hardware&software,2008/4/1,4,2008-Q2,3,0.0,1.0,560001,1,1,0,0,0,0,1
+167,WiChorus,CA,San Jose,mobile,2005/1/1,1,2005-Q1,4,0.0,3.0,42500000,1,0,1,1,1,0,1
+168,easy2comply (Dynasec),NY,New York,hardware&software,2002/1/1,1,2002-Q1,1,5.0,5.0,1000000,0,0,1,0,0,0,1
+169,Socialize,CA,San Francisco,mobile,2008/7/1,7,2008-Q3,3,3.0,3.0,1820000,0,1,0,0,0,0,1
+170,Exclusively.in,NY,New York,fashion,2010/1/1,1,2010-Q1,2,0.0,1.0,18800000,0,0,1,1,0,0,1
+171,Avidia,CA,Mountain View,advertising,2003/1/1,1,2003-Q1,2,2.0,3.0,72300000,0,0,0,1,1,0,1
+172,Bevvy,CA,Los Angeles,e-commerce,2011/1/8,1,2011-Q1,1,0.0,0.0,100000,0,1,0,0,0,0,0
+173,Crowdcast,CA,San Francisco,hardware&software,2007/1/1,1,2007-Q1,1,3.0,3.0,6000000,0,0,1,0,0,0,1
+174,Pictela,NY,New York,advertising,2008/10/17,10,2008-Q4,4,0.0,2.0,3499997,1,0,1,0,0,0,1
+175,LiftDNA,NY,New York,advertising,2009/9/1,9,2009-Q3,2,1.0,1.0,1000000,0,1,0,0,0,0,1
+176,Onavo,CA,Palo Alto,mobile,2010/1/1,1,2010-Q1,2,1.0,2.0,13000000,0,0,1,1,0,0,1
+177,Link_A_Media Devices,CA,Santa Clara,semiconductors,2004/1/1,1,2004-Q1,3,5.0,8.0,47218498,1,0,0,0,1,1,0
+178,NeoGuide Systems,CA,San Jose,biotechnology,2000/1/1,1,2000-Q1,1,6.0,6.0,25000000,0,0,0,0,1,0,1
+179,Accept Software,CA,Santa Clara,hardware&software,2002/1/1,1,2002-Q1,4,3.0,8.0,25305000,1,0,1,1,1,0,1
+180,Milo,CA,Palo Alto,web,2008/1/1,1,2008-Q1,2,0.0,1.0,4950000,0,1,1,0,0,0,1
+181,Mimosa Systems,CA,Santa Clara,hardware&software,2003/8/29,8,2003-Q3,6,2.0,6.0,53816776,1,0,0,1,1,1,1
+182,SkyPilot Networks,CA,Santa Clara,mobile,2000/1/1,1,2000-Q1,4,1.0,8.0,68400000,1,0,1,0,1,1,1
+183,Zencoder,CA,San Francisco,hardware&software,2007/1/1,1,2007-Q1,2,3.0,4.0,2000000,0,1,1,0,0,0,1
+184,Exaprotect,CA,Mountain View,security,2004/1/1,1,2004-Q1,1,2.0,2.0,7660000,0,0,1,0,0,0,1
+185,Giiv,CA,Los Angeles,hardware&software,2009/1/1,1,2009-Q1,2,0.0,1.0,3350000,0,1,1,0,0,0,0
+186,BlackLocus,TX,Austin,analytics,2010/1/1,1,2010-Q1,1,1.0,1.0,2500000,0,0,1,0,0,0,1
+187,DailyBurn,NY,New York,web,2007/10/1,10,2007-Q4,2,0.0,1.0,540000,0,1,0,0,0,0,1
+188,CastTV,CA,San Francisco,games,2006/1/1,1,2006-Q1,2,0.0,1.0,3100000,0,1,1,0,0,0,1
+189,Venmo,NY,New York,mobile,2009/4/4,4,2009-Q2,2,1.0,2.0,1200000,0,1,1,0,0,0,1
+190,WeShow,NY,New York,games,2007/6/1,6,2007-Q2,1,0.0,0.0,5000000,0,0,1,0,0,0,0
+191,SenSage,CA,San Francisco,security,2004/8/18,8,2004-Q3,6,0.0,7.0,37079000,1,0,0,0,1,1,1
+192,BestVendor,NY,New York,hardware&software,2011/1/1,1,2011-Q1,4,0.0,1.0,4200000,0,1,1,0,0,0,1
+193,Local Marketers,WA,Seattle,web,2005/1/1,1,2005-Q1,1,3.0,3.0,4100000,1,0,0,0,0,0,0
+194,Wander (f. YongoPal),CA,Mountain View,mobile,2010/1/1,1,2010-Q1,5,0.0,1.0,185000,1,1,0,0,0,0,0
+195,Right Media,NY,New York,advertising,2003/1/1,1,2003-Q1,1,3.0,3.0,45000000,0,0,0,1,0,0,1
+196,FiveRuns,TX,Austin,web,2005/2/1,2,2005-Q1,2,0.0,2.0,9200000,0,0,1,1,0,0,1
+197,World Blender,WA,Seattle,games,2010/1/1,1,2010-Q1,1,0.0,0.0,12000,0,1,0,0,0,0,0
+198,Dispatch,NY,New York,hardware&software,2011/5/1,5,2011-Q2,2,0.0,0.0,983000,0,1,0,0,0,0,1
+199,HauteLook,CA,Los Angeles,fashion,2007/12/1,12,2007-Q4,2,1.0,2.0,41000000,0,0,0,1,1,0,1
+200,Sponge,CA,San Francisco,web,2010/1/1,1,2010-Q1,1,0.0,0.0,400000,0,1,0,0,0,0,1
+201,Genesis Networks,NY,New York,web,2002/1/1,1,2002-Q1,10,4.0,8.0,22165091,1,0,0,1,0,0,1
+202,Mogad,CA,San Francisco,web,2007/6/1,6,2007-Q2,1,0.0,0.0,500000,0,0,1,0,0,0,1
+203,Meebo,CA,Mountain View,web,2005/2/1,2,2005-Q1,5,0.0,5.0,70000000,0,0,1,1,1,1,1
+204,N2N Commerce,MA,Cambridge,e-commerce,2006/1/1,1,2006-Q1,1,2.0,2.0,30000000,1,0,0,0,0,0,1
+205,Provigent,CA,Santa Clara,semiconductors,2000/1/1,1,2000-Q1,3,6.0,9.0,32000000,0,0,0,0,0,1,1
+206,Generic Media,CA,Palo Alto,hardware&software,2000/1/1,1,2000-Q1,1,5.0,5.0,2500000,1,0,0,0,0,0,0
+207,WireImage,NY,New York,games,2001/1/1,1,2001-Q1,1,5.0,5.0,15000000,0,0,0,0,1,0,1
+208,Hello Chair,CA,San Francisco,mobile,2006/1/1,1,2006-Q1,2,1.0,4.0,889999,1,1,0,0,0,0,0
+209,Consorte Media,CA,San Francisco,web,2005/7/1,7,2005-Q3,1,2.0,2.0,7000000,0,0,0,1,0,0,1
+210,Triples Media,NY,New York,advertising,2010/6/1,6,2010-Q2,2,0.0,0.0,100000,0,1,0,0,0,0,0
+211,RightsFlow,NY,New York,art&music,2007/10/1,10,2007-Q4,1,1.0,1.0,1500000,0,0,1,0,0,0,1
+212,thePlatform,WA,Seattle,web,2000/1/1,1,2000-Q1,1,6.0,6.0,8000000,1,0,0,0,0,0,1
+213,TwtBks,CA,San Francisco,web,2009/6/20,6,2009-Q2,1,0.0,0.0,25000,0,1,0,0,0,0,0
+214,Picateers,CA,San Mateo,web,2005/1/1,1,2005-Q1,2,1.0,3.0,12100000,0,0,1,1,0,0,0
+215,Vontu,CA,San Francisco,hardware&software,2001/1/1,1,2001-Q1,2,4.0,5.0,20000000,0,0,0,0,1,1,1
+216,NextIO,TX,Austin,hardware&software,2003/1/1,1,2003-Q1,4,2.0,9.0,49600000,0,0,0,1,1,0,0
+217,Sonar.me,NY,New York,mobile,2010/1/1,1,2010-Q1,1,2.0,2.0,200000,0,1,0,0,0,0,0
+218,Krillion,CA,Mountain View,web,2006/5/1,5,2006-Q2,1,0.0,0.0,9150000,0,0,1,0,0,0,1
+219,nprogress,CA,Los Angeles,social_media,2010/2/1,2,2010-Q1,1,1.0,1.0,1700000,0,0,0,0,0,0,0
+220,NextMedium,CA,Los Angeles,hardware&software,2004/1/1,1,2004-Q1,2,1.0,2.0,9500000,0,0,1,1,0,0,0
+221,Kapow Software,CA,Palo Alto,hardware&software,2005/1/1,1,2005-Q1,3,0.0,5.0,19743770,0,0,0,1,1,0,1
+222,TrustedID,CA,Palo Alto,security,2005/1/1,1,2005-Q1,3,0.0,2.0,25000000,0,0,1,1,0,0,1
+223,Azingo,CA,Sunnyvale,mobile,2005/1/1,1,2005-Q1,2,1.0,3.0,80000000,0,0,1,1,0,0,0
+224,Vudu,CA,Santa Clara,hardware&software,2004/1/1,1,2004-Q1,2,1.0,3.0,36000000,0,0,1,1,0,0,1
+225,MyNines,NY,New York,e-commerce,2009/8/1,8,2009-Q3,1,0.0,0.0,500000,0,1,0,0,0,0,0
+226,Contur,CA,Los Angeles,hardware&software,2011/9/1,9,2011-Q3,1,0.0,0.0,20000,0,1,0,0,0,0,0
+227,Factery,CA,Menlo Park,web,2009/4/1,4,2009-Q2,1,0.0,0.0,1200000,1,0,0,0,0,0,0
+228,HeadCase Humanufacturing,CA,Los Angeles,hardware&software,2006/1/1,1,2006-Q1,1,0.0,0.0,900000,0,0,1,0,0,0,0
+229,bluepulse,CA,San Mateo,web,1990/4/10,4,1990-Q2,1,16.0,16.0,6000000,0,0,1,0,0,0,0
+230,Mr. Youth,NY,New York,advertising,2002/1/1,1,2002-Q1,2,0.0,7.0,15100000,0,1,1,0,0,0,1
+231,Atrica,CA,Santa Clara,public_relations,2000/1/1,1,2000-Q1,1,6.0,6.0,22200000,0,0,0,0,0,0,0
+232,Sensory Networks,CA,Mountain View,web,2003/1/1,1,2003-Q1,3,2.0,5.0,17400000,1,0,0,0,1,0,1
+233,Flock,CA,Menlo Park,web,2005/1/1,1,2005-Q1,5,0.0,3.0,28300000,0,1,1,1,1,1,1
+234,TimeBridge,CA,Mountain View,web,2005/5/1,5,2005-Q2,3,0.0,4.0,12400000,1,0,1,1,0,0,1
+235,Loyalty Lab,CA,San Francisco,hardware&software,2003/1/1,1,2003-Q1,3,2.0,7.0,11000000,1,1,0,1,0,0,1
+236,ZManda,CA,Sunnyvale,hardware&software,2005/1/1,1,2005-Q1,2,0.0,2.0,13000000,0,0,1,1,0,0,1
+237,Jumo,NY,New York,social_media,2010/2/1,2,2010-Q1,1,0.0,0.0,3500000,0,0,0,0,0,0,1
+238,PicApp,CA,San Francisco,web,2008/1/1,1,2008-Q1,1,0.0,0.0,3200000,0,0,1,0,0,0,1
+239,Composite Software,CA,San Mateo,hardware&software,2002/1/1,1,2002-Q1,3,0.0,10.0,14650003,0,1,0,0,0,1,1
+240,Terracotta,CA,San Francisco,hardware&software,2003/1/1,1,2003-Q1,2,3.0,5.0,23500000,1,0,0,1,0,0,1
+241,Aquest Systems,CA,Sunnyvale,hardware&software,2004/1/1,1,2004-Q1,1,3.0,3.0,20000000,0,0,0,1,0,0,0
+242,Attributor,CA,San Mateo,hardware&software,2005/10/1,10,2005-Q4,4,0.0,4.0,25200000,0,0,1,1,1,1,1
+243,Greenplum Software,CA,San Mateo,hardware&software,2003/6/1,6,2003-Q2,4,2.0,4.0,61000000,0,0,1,1,1,0,1
+244,PlaySpan,CA,Santa Clara,games,2006/5/1,5,2006-Q2,4,1.0,4.0,46300000,1,0,1,1,1,0,1
+245,D2C Games,CA,San Mateo,games,2006/1/1,1,2006-Q1,2,0.0,1.0,7500000,0,0,1,0,0,0,0
+246,Mu Dynamics,CA,Sunnyvale,web,2005/1/1,1,2005-Q1,3,0.0,3.0,24000000,0,0,1,1,1,0,1
+247,ReTel Technologies,CA,San Francisco,analytics,2007/10/1,10,2007-Q4,2,1.0,2.0,1000000,0,1,0,0,0,0,1
+248,Roxro Pharma,CA,Menlo Park,biotechnology,1999/1/1,1,1999-Q1,1,8.0,8.0,42700000,0,0,0,1,0,0,0
+249,Intelliden,CA,Menlo Park,hardware&software,2000/1/1,1,2000-Q1,3,5.0,7.0,80000000,1,0,0,0,0,1,1
+250,XGraph,NY,New York,analytics,2008/10/1,10,2008-Q4,1,1.0,1.0,3750000,0,0,1,0,0,0,1
+251,Playdom,CA,Palo Alto,games,2008/2/1,2,2008-Q1,2,1.0,2.0,76000000,0,0,1,0,0,0,1
+252,Servio,CA,San Francisco,analytics,2009/4/30,4,2009-Q2,2,1.0,3.0,9356180,0,0,1,1,0,0,1
+253,Dapper,CA,San Francisco,advertising,2006/10/1,10,2006-Q4,1,1.0,1.0,3000000,0,0,1,0,0,0,1
+254,SeeSaw Networks,CA,San Francisco,advertising,2005/1/1,1,2005-Q1,5,1.0,6.0,21138876,1,0,1,1,0,0,0
+255,Smalltown,CA,San Mateo,web,2005/1/15,1,2005-Q1,1,0.0,0.0,4000000,0,0,1,0,0,0,0
+256,Skyrider,CA,Mountain View,hardware&software,2003/1/1,1,2003-Q1,2,3.0,5.0,17000000,1,0,0,0,1,0,0
+257,SkillSlate,NY,New York,web,2009/1/1,1,2009-Q1,1,1.0,1.0,1100000,0,1,0,0,0,0,1
+258,PlayerDuel,CA,Palo Alto,mobile,2011/1/1,1,2011-Q1,2,0.0,1.0,21189,1,1,0,0,0,0,0
+259,PANTA Systems,CA,Santa Clara,hardware&software,2002/1/1,1,2002-Q1,1,3.0,3.0,9500000,1,0,0,0,0,0,0
+260,Beceem Communications,CA,Santa Clara,semiconductors,2003/10/1,10,2003-Q4,3,1.0,5.0,69600000,1,0,0,1,0,1,1
+261,Panther Express,NY,New York,games,2005/1/1,1,2005-Q1,2,1.0,3.0,21750000,1,0,0,1,0,0,1
+262,BreakingPoint Systems,TX,Austin,security,2005/8/28,8,2005-Q3,2,2.0,4.0,20000000,1,0,0,0,1,0,1
+263,OptiMedica,CA,Santa Clara,biotechnology,2004/1/1,1,2004-Q1,2,4.0,9.0,51000000,0,0,0,0,1,0,1
+264,Clever Sense,CA,Mountain View,web,2008/4/11,4,2008-Q2,2,2.0,3.0,2000000,1,0,1,0,0,0,1
+265,AlterPoint,TX,Austin,hardware&software,2001/1/1,1,2001-Q1,3,2.0,4.0,26800000,0,0,1,1,1,0,1
+266,Shocking Technologies,CA,San Jose,hardware&software,2006/1/1,1,2006-Q1,6,1.0,6.0,55900000,1,0,1,1,1,0,0
+267,Ribbit,CA,Mountain View,mobile,2005/2/23,2,2005-Q1,2,1.0,2.0,11000000,0,0,1,1,0,0,1
+268,Tripl,NY,New York,social_media,2011/5/17,5,2011-Q2,3,0.0,1.0,900000,0,1,0,0,0,0,0
+269,Azaire Networks,CA,Santa Clara,hardware&software,2003/1/1,1,2003-Q1,1,3.0,3.0,21000000,0,0,0,0,1,0,0
+270,Quigo,NY,New York,advertising,2000/1/1,1,2000-Q1,2,4.0,7.0,35000000,1,0,1,0,0,0,1
+271,VirtualLogix,CA,Sunnyvale,hardware&software,2002/1/1,1,2002-Q1,4,2.0,8.0,29288979,1,0,1,1,1,0,1
+272,MerchantCircle,CA,Mountain View,web,2005/10/1,10,2005-Q4,2,0.0,1.0,14300000,0,0,1,1,0,0,1
+273,Helicomm,CA,San Diego,web,2002/1/1,1,2002-Q1,1,4.0,4.0,1000000,1,0,0,0,0,0,0
+274,Kace networks,CA,Mountain View,hardware&software,2003/1/1,1,2003-Q1,2,2.0,3.0,11000000,1,0,0,1,0,0,1
+275,Thwapr,NY,New York,social_media,2007/1/1,1,2007-Q1,2,2.0,3.0,2000000,1,1,0,0,0,0,0
+276,Zinch,CA,San Francisco,web,2007/2/1,2,2007-Q1,2,0.0,2.0,5000000,1,1,0,0,0,0,1
+277,BroadLight,CA,Santa Clara,hardware&software,2000/6/1,6,2000-Q2,3,5.0,7.0,27000000,0,0,0,0,0,1,1
+278,BBE,NY,New York,advertising,2004/4/1,4,2004-Q2,1,3.0,3.0,10000000,0,0,1,0,0,0,1
+279,Mobius Microsystems,CA,Sunnyvale,hardware&software,2004/1/1,1,2004-Q1,2,2.0,3.0,20220000,0,0,1,1,0,0,1
+280,Boonty,NY,New York,games,2001/3/1,3,2001-Q1,1,4.0,4.0,10000000,0,0,0,1,0,0,1
+281,B-Side Entertainment,NY,New York,games,2005/4/7,4,2005-Q2,2,1.0,3.0,7350000,0,0,1,1,0,0,0
+282,Taggstr,CA,San Jose,hardware&software,2009/7/1,7,2009-Q3,1,0.0,0.0,50000,0,1,0,0,0,0,0
+283,Fashism,NY,New York,fashion,2009/1/1,1,2009-Q1,1,1.0,1.0,1000000,0,0,1,0,0,0,0
+284,Goodmail Systems,CA,Mountain View,security,2003/1/1,1,2003-Q1,4,2.0,6.0,45000000,0,0,1,1,1,0,0
+285,LookStat,WA,Seattle,e-commerce,2008/1/1,1,2008-Q1,1,1.0,1.0,500000,0,0,1,0,0,0,0
+286,Sweepery,CA,San Francisco,hardware&software,2008/8/1,8,2008-Q3,2,0.0,1.0,500000,0,0,0,0,0,0,0
+287,Luminary Micro,TX,Austin,semiconductors,2004/1/1,1,2004-Q1,3,1.0,3.0,44000000,0,0,1,1,1,0,1
+288,Clicker,CA,Los Angeles,games,2009/1/1,1,2009-Q1,2,0.0,1.0,19000000,0,0,1,1,0,0,1
+289,iKoa,CA,Menlo Park,semiconductors,2006/1/1,1,2006-Q1,3,1.0,4.0,18700000,1,0,1,0,0,0,0
+290,Loopt,CA,Mountain View,mobile,2005/1/1,1,2005-Q1,4,0.0,5.0,32006000,0,1,1,1,1,0,1
+291,Wavii,WA,Seattle,web,2009/3/1,3,2009-Q1,1,1.0,1.0,2000000,0,0,0,0,0,0,1
+292,Seesmic,CA,San Francisco,web,2007/6/1,6,2007-Q2,3,0.0,3.0,16000000,0,0,1,1,1,0,1
+293,ID Analytics,CA,San Diego,web,2002/1/1,1,2002-Q1,3,0.0,5.0,35150000,0,0,1,1,1,0,1
+294,Bizanga,CA,San Mateo,security,2003/1/1,1,2003-Q1,1,6.0,6.0,8000000,0,0,0,1,0,0,1
+295,Transpond,CA,San Francisco,advertising,2007/1/1,1,2007-Q1,1,2.0,2.0,4100000,0,0,1,0,0,0,1
+296,Foldrx Pharmaceuticals,MA,Cambridge,biotechnology,2003/1/1,1,2003-Q1,1,7.0,7.0,29000000,1,0,0,0,0,0,1
+297,Klir Technologies,WA,Seattle,web,2000/1/1,1,2000-Q1,1,5.0,5.0,8700000,0,0,1,0,0,0,0
+298,MetaCarta,MA,Cambridge,mobile,2001/1/1,1,2001-Q1,1,4.0,4.0,10000000,0,0,0,0,1,0,1
+299,Bebo,CA,San Francisco,web,2005/1/6,1,2005-Q1,1,1.0,1.0,15000000,0,0,1,0,0,0,1
+300,SideTour,NY,New York,web,2011/6/1,6,2011-Q2,3,0.0,1.0,4000000,0,1,1,0,0,0,1
+301,Pelago,WA,Seattle,mobile,2005/12/1,12,2005-Q4,3,0.0,2.0,22400000,1,0,1,1,0,0,1
+302,Trinity Biosystems,CA,Menlo Park,biotechnology,2002/1/1,1,2002-Q1,2,4.0,7.0,28500000,1,0,0,1,0,0,0
+303,Gamook,CA,Menlo Park,games,2008/1/1,1,2008-Q1,1,0.0,0.0,1500000,0,0,1,0,0,0,0
+304,ShopWell,CA,Palo Alto,web,2008/1/1,1,2008-Q1,5,2.0,4.0,7939553,1,0,0,1,0,0,1
+305,NewsBasis,CA,San Francisco,public_relations,2009/1/1,1,2009-Q1,1,0.0,0.0,545000,0,1,0,0,0,0,0
+306,Snapette,NY,New York,fashion,2011/1/1,1,2011-Q1,1,0.0,0.0,1500000,0,0,0,0,0,0,1
+307,EmSense,CA,San Francisco,hardware&software,2004/1/1,1,2004-Q1,2,5.0,6.0,13000000,1,0,0,0,1,0,0
+308,Image Space Media,NY,New York,advertising,2008/1/1,1,2008-Q1,2,2.0,2.0,3915000,1,0,1,0,0,0,1
+309,FameCast,TX,Austin,games,2007/1/1,1,2007-Q1,3,0.0,3.0,9700000,1,0,1,0,0,0,0
+310,Cassatt,CA,San Jose,hardware&software,2003/1/1,1,2003-Q1,1,3.0,3.0,15000000,0,0,0,0,0,1,1
+311,SolFocus,CA,San Jose,clean_technology,2005/11/1,11,2005-Q4,8,0.0,6.0,211403000,1,0,1,1,1,0,0
+312,Giftiki,CA,San Francisco,social_media,2009/6/1,6,2009-Q2,2,1.0,1.0,1020000,0,1,1,0,0,0,1
+313,Storspeed,TX,Austin,hardware&software,2007/1/1,1,2007-Q1,1,0.0,0.0,13000000,0,0,1,0,0,0,0
+314,SpaBooker,NY,New York,hardware&software,2007/11/1,11,2007-Q4,2,0.0,3.0,14700000,0,1,1,0,0,0,1
+315,Jajah,CA,Mountain View,mobile,2005/1/1,1,2005-Q1,4,1.0,4.0,33000000,0,0,1,1,1,1,1
+316,Baxano,CA,San Jose,health&medical,2005/1/1,1,2005-Q1,1,5.0,5.0,30000000,0,0,0,0,1,0,1
+317,Applied Identity,CA,San Francisco,advertising,2002/1/1,1,2002-Q1,3,3.0,6.0,33000000,0,0,1,1,1,0,0
+318,WooMe,CA,San Francisco,web,2000/12/1,12,2000-Q4,3,6.0,7.0,17400000,0,0,1,1,0,0,1
+319,Mail.com Media Corporation,CA,Los Angeles,web,2004/1/1,1,2004-Q1,1,4.0,4.0,35000000,0,0,0,0,0,1,0
+320,Smooth-Stone,TX,Austin,clean_technology,2008/1/1,1,2008-Q1,1,2.0,2.0,48000000,1,0,0,0,0,0,0
+321,What They Like,CA,San Francisco,web,2007/8/29,8,2007-Q3,1,0.0,0.0,990000,0,0,1,0,0,0,0
+322,Sermo,MA,Cambridge,health&medical,2006/1/1,1,2006-Q1,4,0.0,5.0,41000000,1,0,1,1,1,0,1
+323,Alnara Pharmaceuticals,MA,Cambridge,biotechnology,2008/1/1,1,2008-Q1,2,0.0,2.0,55000000,0,0,1,1,0,0,1
+324,B-hive Networks,CA,San Mateo,hardware&software,2005/1/1,1,2005-Q1,2,1.0,1.0,7500000,0,1,1,0,0,0,1
+325,Kashless,WA,Seattle,e-commerce,2008/9/1,9,2008-Q3,2,0.0,2.0,9000000,1,0,1,0,0,0,0
+326,LaunchGram,CA,Mountain View,social_media,2012/1/10,1,2012-Q1,2,0.0,0.0,70000,0,1,0,0,0,0,1
+327,Lookery,CA,San Francisco,web,2007/8/1,8,2007-Q3,2,0.0,1.0,3150000,0,1,1,0,0,0,1
+328,Wantful,CA,San Francisco,e-commerce,2011/1/1,1,2011-Q1,1,1.0,1.0,5500000,0,0,1,0,0,0,0
+329,Oyster.com,NY,New York,travel,2008/3/1,3,2008-Q1,4,0.0,4.0,23400000,0,0,1,1,1,0,1
+330,LogLogic,CA,San Jose,security,2002/1/1,1,2002-Q1,1,7.0,7.0,8800000,0,0,0,0,0,1,1
+331,StyleTrek,NY,New York,fashion,2010/2/1,2,2010-Q1,1,0.0,0.0,1500000,0,0,0,0,0,0,0
+332,Sequoia Communications,CA,San Diego,semiconductors,2000/1/1,1,2000-Q1,7,4.0,9.0,74000000,1,0,0,0,1,1,0
+333,Simple Star,CA,San Francisco,web,2001/1/1,1,2001-Q1,2,2.0,4.0,7100000,0,1,1,0,0,0,1
+334,StyleFeeder,MA,Cambridge,e-commerce,2006/5/3,5,2006-Q2,3,1.0,2.0,3500000,1,1,1,0,0,0,1
+335,FlashSoft,CA,Sunnyvale,hardware&software,2009/11/25,11,2009-Q4,1,1.0,1.0,3000000,0,0,1,0,0,0,1
+336,Clearwell Systems,CA,Mountain View,hardware&software,2004/12/6,12,2004-Q4,2,1.0,2.0,29000000,0,0,0,1,1,0,1
+337,Impeva,CA,Mountain View,hardware&software,2004/1/1,1,2004-Q1,1,4.0,4.0,10000000,0,0,0,1,0,0,0
+338,Songbird,CA,San Francisco,mobile,2006/2/1,2,2006-Q1,3,0.0,3.0,11015719,1,0,1,0,0,0,0
+339,SimpleGeo,CA,San Francisco,advertising,2009/5/1,5,2009-Q2,3,0.0,1.0,9807367,0,1,1,0,0,0,1
+340,TouristEye,CA,Mountain View,travel,2010/2/1,2,2010-Q1,3,0.0,2.0,475000,0,1,0,0,0,0,1
+341,Oberon Media,NY,New York,games,2003/1/1,1,2003-Q1,2,5.0,7.0,36000000,1,0,0,1,0,0,1
+342,Aragon Pharmaceuticals,CA,San Diego,biotechnology,2009/1/1,1,2009-Q1,4,0.0,3.0,122000000,0,0,1,1,1,1,1
+343,#waywire,NY,New York,social_media,2012/6/1,6,2012-Q2,1,0.0,0.0,1750000,0,0,0,0,0,0,1
+344,Feedtrace,NY,New York,web,2009/8/10,8,2009-Q3,1,0.0,0.0,130000,0,1,0,0,0,0,1
+345,Allurent,MA,Cambridge,web,2005/1/1,1,2005-Q1,1,5.0,5.0,2000000,1,0,0,0,0,0,1
+346,Crossing Automation,CA,Mountain View,semiconductors,2003/1/1,1,2003-Q1,4,5.0,7.0,13045000,0,0,1,1,0,0,1
+347,Scrapblog,CA,San Francisco,web,2006/1/1,1,2006-Q1,4,0.0,4.0,10000000,0,0,1,1,1,0,1
+348,Yield Software,CA,San Mateo,advertising,2007/1/1,1,2007-Q1,1,1.0,1.0,6000000,0,0,0,1,0,0,1
+349,Off & Away,WA,Seattle,travel,2009/12/1,12,2009-Q4,2,0.0,0.0,3250000,1,0,1,0,0,0,1
+350,CypherMax,CA,San Jose,hardware&software,2000/1/1,1,2000-Q1,3,6.0,7.0,148000000,1,0,0,1,0,0,0
+351,Producteev,NY,New York,hardware&software,2008/7/8,7,2008-Q3,3,0.0,1.0,1310000,0,1,0,0,0,0,1
+352,HotPads,CA,San Francisco,web,2005/5/4,5,2005-Q2,1,1.0,1.0,2300000,0,0,1,0,0,0,1
+353,DanceJam,CA,San Francisco,games,2007/4/1,4,2007-Q2,2,0.0,0.0,4500000,0,1,0,1,0,0,0
+354,SocialMedia.com,CA,San Francisco,advertising,2007/1/1,1,2007-Q1,3,0.0,2.0,10000000,0,1,1,1,0,0,1
+355,BuyWithMe,NY,New York,e-commerce,2009/3/1,3,2009-Q1,4,0.0,2.0,36500000,0,0,1,1,1,0,1
+356,Level 5 Networks,CA,Sunnyvale,semiconductors,2002/1/1,1,2002-Q1,1,3.0,3.0,30000000,0,0,0,1,0,0,1
+357,Votizen,CA,Mountain View,web,2009/3/19,3,2009-Q1,2,1.0,2.0,2250000,1,0,0,0,0,0,1
+358,TalkPlus,CA,San Mateo,web,2004/2/1,2,2004-Q1,1,2.0,2.0,5500000,0,0,1,0,0,0,0
+359,Robotgalaxy,NY,New York,games,2006/1/1,1,2006-Q1,2,1.0,2.0,12000000,0,0,1,1,0,0,0
+360,PasswordBank,CA,Sunnyvale,hardware&software,2008/1/1,1,2008-Q1,2,0.0,1.0,3500000,0,1,1,0,0,0,1
+361,SnapTell,CA,Palo Alto,hardware&software,2006/1/1,1,2006-Q1,1,1.0,1.0,4000000,0,0,1,0,0,0,1
+362,CloudShield Technologies,CA,Sunnyvale,hardware&software,2000/1/1,1,2000-Q1,2,5.0,7.0,25000000,1,0,0,0,0,0,1
+363,Instinctiv,NY,New York,mobile,2007/8/1,8,2007-Q3,3,0.0,3.0,1420698,1,1,0,0,0,0,1
+364,Diversion,CA,Los Angeles,games,2010/5/1,5,2010-Q2,2,0.0,1.0,300000,0,1,0,1,0,0,0
+365,Codesion,CA,Palo Alto,hardware&software,2002/1/1,1,2002-Q1,3,5.0,8.0,1400000,0,1,0,0,0,0,1
+366,Xoopit,CA,San Francisco,web,2004/1/1,1,2004-Q1,2,2.0,4.0,6500000,0,0,1,0,0,0,1
+367,One Block Off the Grid (1BOG),CA,San Francisco,clean_technology,2008/11/1,11,2008-Q4,1,1.0,1.0,5000000,0,0,1,0,0,0,1
+368,Mytopia,CA,Palo Alto,games,2007/1/1,1,2007-Q1,2,1.0,2.0,3500000,0,1,1,0,0,0,1
+369,BARRX Medical,CA,Sunnyvale,health&medical,2003/1/1,1,2003-Q1,1,7.0,7.0,15000000,0,0,0,0,0,1,1
+370,Power Analog Microelectronics,CA,Santa Clara,hardware&software,2004/1/1,1,2004-Q1,2,3.0,3.0,12000000,0,0,1,1,0,0,0
+371,StartupDigest,WA,Seattle,social_media,2009/11/16,11,2009-Q4,1,1.0,1.0,200000,1,0,0,0,0,0,1
+372,OtherInbox,TX,Austin,hardware&software,2008/1/1,1,2008-Q1,4,0.0,2.0,3800000,0,1,1,0,0,0,1
+373,M-Factor,CA,San Mateo,hardware&software,2003/1/1,1,2003-Q1,2,4.0,6.0,10100000,1,0,0,0,1,0,1
+374,Athena Design Systems,CA,Santa Clara,hardware&software,2003/1/1,1,2003-Q1,1,4.0,4.0,4000000,0,0,0,1,0,0,0
+375,Servo Software,CA,San Mateo,hardware&software,2008/1/1,1,2008-Q1,1,1.0,1.0,3011408,0,0,0,1,0,0,1
+376,Levanta,CA,San Mateo,hardware&software,1998/1/1,1,1998-Q1,1,9.0,9.0,8000000,1,0,0,0,0,0,0
+377,EdgeSpring,CA,San Mateo,analytics,2010/7/1,7,2010-Q3,2,0.0,2.0,12700000,0,0,1,0,0,0,1
+378,about.me,CA,San Francisco,web,2013/2/5,2,2013-Q1,1,0.0,0.0,5675000,1,0,0,0,0,0,1
+379,EchoSign,CA,Palo Alto,web,2005/7/15,7,2005-Q3,2,0.0,2.0,8500000,0,0,1,1,0,0,1
+380,PI Corporation,WA,Seattle,web,2003/1/1,1,2003-Q1,1,3.0,3.0,9400000,0,0,0,1,0,0,1
+381,Pulse,CA,San Francisco,social_media,2010/5/1,5,2010-Q2,2,0.0,1.0,9800000,0,1,1,0,0,0,1
+382,HipChat,CA,San Francisco,hardware&software,2009/9/1,9,2009-Q3,1,0.0,0.0,100000,0,1,0,0,0,0,1
+383,ScaleIO,CA,Palo Alto,hardware&software,2011/1/1,1,2011-Q1,1,1.0,1.0,12000000,1,0,0,0,0,0,1
+384,GroupMe,NY,New York,hardware&software,2010/5/1,5,2010-Q2,2,0.0,0.0,11450000,0,1,0,1,0,0,1
+385,WeAre.Us,CA,San Francisco,advertising,2007/12/1,12,2007-Q4,1,0.0,0.0,50000,0,1,0,0,0,0,0
+386,Kickfire,CA,Santa Clara,hardware&software,2006/1/1,1,2006-Q1,1,2.0,2.0,20000000,0,0,0,1,0,0,0
+387,"LifeSize, a Division of Logitech",TX,Austin,public_relations,2003/1/1,1,2003-Q1,2,2.0,3.0,42500000,0,0,0,0,1,1,1
+388,Aptana,CA,San Mateo,hardware&software,2007/1/1,1,2007-Q1,1,2.0,2.0,7800000,1,0,0,0,0,0,1
+389,ecoATM,CA,San Diego,clean_technology,2008/8/2,8,2008-Q3,4,1.0,4.0,71400000,1,0,1,0,0,0,1
+390,Adura Technologies,CA,San Francisco,clean_technology,2008/1/1,1,2008-Q1,3,0.0,4.0,25500000,0,0,1,1,0,0,1
+391,Rhythm NewMedia,CA,Mountain View,advertising,2005/1/1,1,2005-Q1,4,5.0,7.0,28932322,1,0,0,0,1,0,1
+392,Topsy Labs,CA,San Francisco,analytics,2007/1/15,1,2007-Q1,6,0.0,5.0,35200000,1,0,1,1,1,0,1
+393,Silver Tail Systems,CA,Menlo Park,analytics,2008/1/8,1,2008-Q1,3,0.0,3.0,22100000,1,0,1,1,0,0,1
+394,Reliant Technologies,CA,Mountain View,biotechnology,2001/1/1,1,2001-Q1,1,6.0,6.0,15000000,0,0,0,0,0,0,1
+395,Peek & Co,NY,New York,mobile,2007/11/1,11,2007-Q4,2,0.0,3.0,626096,1,0,1,0,0,0,0
+396,C2 Microsystems,CA,San Jose,hardware&software,2004/1/1,1,2004-Q1,1,5.0,5.0,10000000,1,0,0,0,0,0,0
+397,GoPollGo,CA,Palo Alto,web,2011/1/1,1,2011-Q1,1,0.0,0.0,425000,0,1,0,0,0,0,1
+398,Kima Labs,CA,San Francisco,mobile,2010/1/1,1,2010-Q1,1,0.0,0.0,770000,0,1,0,0,0,0,1
+399,Whiskey Media,CA,San Francisco,web,2007/10/1,10,2007-Q4,2,1.0,2.0,4000000,1,0,0,0,0,0,1
+400,Blue Buzz Network,CA,San Francisco,social_media,2006/1/1,1,2006-Q1,1,4.0,4.0,1310000,1,0,0,0,0,0,0
+401,Cotendo,CA,Sunnyvale,hardware&software,2008/1/1,1,2008-Q1,4,0.0,3.0,36000000,0,0,1,1,1,1,1
+402,Particle Code,CA,Palo Alto,hardware&software,2010/5/1,5,2010-Q2,1,0.0,0.0,3000000,1,0,0,0,0,0,1
+403,Flowgram,CA,San Francisco,web,2007/6/1,6,2007-Q2,1,0.0,0.0,1300000,0,1,0,0,0,0,0
+404,Behance,NY,New York,web,2006/2/1,2,2006-Q1,1,6.0,6.0,6500000,0,0,1,0,0,0,1
+405,Locu,MA,Cambridge,advertising,2011/1/1,1,2011-Q1,2,0.0,1.0,4600000,0,1,1,0,0,0,1
+406,Socialbomb,NY,New York,games,2008/6/5,6,2008-Q2,1,0.0,0.0,240000,0,1,0,0,0,0,1
+407,Imagine Communications,CA,San Diego,hardware&software,2005/1/1,1,2005-Q1,4,0.0,5.0,34700000,1,0,1,1,0,0,1
+408,Moonshoot,CA,Palo Alto,web,2007/1/1,1,2007-Q1,2,3.0,5.0,6760000,1,0,0,0,0,0,0
+409,AGEIA Technologies,CA,Santa Clara,semiconductors,2002/1/1,1,2002-Q1,1,3.0,3.0,27500000,0,0,0,0,1,0,1
+410,Broadway Networks,CA,San Jose,public_relations,2006/1/1,1,2006-Q1,1,4.0,4.0,954000,1,0,0,0,0,0,0
+411,Xelerated,CA,Santa Clara,semiconductors,2000/1/1,1,2000-Q1,3,5.0,8.0,53000000,0,0,0,0,1,1,1
+412,Oodle,CA,San Mateo,social_media,2004/1/1,1,2004-Q1,4,2.0,6.0,23100000,1,0,1,1,1,0,1
+413,The Climate Corporation,CA,San Francisco,clean_technology,2006/1/1,1,2006-Q1,4,1.0,6.0,108900000,0,0,1,1,1,0,1
+414,Kosmix,CA,Mountain View,web,2005/1/1,1,2005-Q1,4,0.0,3.0,55000000,0,0,1,1,1,1,1
+415,Xtify Inc.,NY,New York,mobile,2009/4/1,4,2009-Q2,2,1.0,2.0,5686383,0,0,1,0,0,0,1
+416,iSkoot,CA,San Francisco,mobile,2005/4/22,4,2005-Q2,3,1.0,3.0,32200000,0,0,1,1,1,0,1
+417,Panvidea,NY,New York,games,2007/1/1,1,2007-Q1,1,3.0,3.0,2700000,0,0,1,0,0,0,1
+418,TRAFFIQ,NY,New York,advertising,2006/9/6,9,2006-Q3,3,0.0,3.0,18000000,1,0,1,1,0,0,1
+419,CoTweet,CA,San Francisco,advertising,2009/1/1,1,2009-Q1,1,0.0,0.0,1100000,0,0,1,0,0,0,1
+420,Paracor Medical,CA,Sunnyvale,biotechnology,1999/1/1,1,1999-Q1,1,8.0,8.0,44000000,0,0,0,0,0,1,0
+421,Causata,CA,San Francisco,hardware&software,2009/1/1,1,2009-Q1,2,0.0,2.0,15500000,0,0,1,1,0,0,1
+422,Asempra Technologies,CA,Santa Clara,security,2003/1/1,1,2003-Q1,1,3.0,3.0,20000000,0,0,0,1,0,0,1
